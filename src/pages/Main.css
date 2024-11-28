@@ -1,0 +1,73 @@
+
+.app-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+
+  }
+  
+  .search-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input {
+    padding: 10px;
+    font-size: 16px;
+    width: 250px;
+    margin-right: 10px;
+  }
+  
+  .submit-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+ 
+  .card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    border-radius: 5px;
+  }
+
+  .record-container {
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    max-width: 500px;
+  }
+
+  .record {
+    display: flex;
+    justify-content: space-between;
+    padding:0px 30px;
+    gap: 50px;
+    border-bottom: 1px solid gray;
+  }
+
+  .record-data {
+    justify-self: flex-start;
+  }
+
+  hr {
+    background-color: beige;
+    width: 3px;
+  }
+  
+
+  
+  
+  
